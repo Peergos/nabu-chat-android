@@ -11,14 +11,15 @@ Compatible with [nabu-chat](https://github.com/Peergos/nabu-chat)
 
 ## Instructions
 
-Built using [Android Studio] (https://developer.android.com/studio)
+Built using [Android Studio](https://developer.android.com/studio)
 
 To build: Build Menu -> Click Make Project
 
 To run: Run Menu -> Run 'app'
 
 
-alternatively from CLI
+
+Alternatively from CLI
 
 install gradle
 
