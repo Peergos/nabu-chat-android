@@ -1,6 +1,6 @@
 # nabu-chat
 
-Simple android chat using Nabu primitives
+Simple android chat using [Nabu](https://github.com/Peergos/nabu) primitives
 
 Compatible with [nabu-chat](https://github.com/Peergos/nabu-chat)
 
