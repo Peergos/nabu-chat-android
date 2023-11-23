@@ -13,7 +13,7 @@ Compatible with [nabu-chat](https://github.com/Peergos/nabu-chat)
 
 Built using [Android Studio](https://developer.android.com/studio)
 
-To build: Build Menu -> Click Make Project
+To build: Build Menu -> Make Project
 
 To run: Run Menu -> Run 'app'
 
@@ -26,3 +26,5 @@ install gradle
 ```
 gradle build
 ```
+
+apk file will be built in app/build/outputs/apk
